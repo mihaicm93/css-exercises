@@ -1,0 +1,14 @@
+.blackWhite,.different{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+
+.blackWhite{
+    background-color: black;
+    color: white;
+}
+
+.different{
+    background-color: yellow;
+}
